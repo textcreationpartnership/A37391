@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the proceedings in the kingdom of Scotland concerning their native and dread sovereign Charles Stuart, late king of England, and a message to His Highness the Prince of Wales, with the declaration of the Marquis of Argyle and General Lieven concerning the Prince ..., also a letter from the Presbyterian ministers in the kingdome of England to their brethren of Scotland ... and the answer of the ministers of Scotland thereunto.</title>
+            <author>Wilson, H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37391</idno>
+            <idno type="STC">Wing D743</idno>
+            <idno type="STC">ESTC R29704</idno>
+            <idno type="EEBO-CITATION">11195723</idno>
+            <idno type="OCLC">ocm 11195723</idno>
+            <idno type="VID">46671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46671)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the proceedings in the kingdom of Scotland concerning their native and dread sovereign Charles Stuart, late king of England, and a message to His Highness the Prince of Wales, with the declaration of the Marquis of Argyle and General Lieven concerning the Prince ..., also a letter from the Presbyterian ministers in the kingdome of England to their brethren of Scotland ... and the answer of the ministers of Scotland thereunto.</title>
+                  <author>Wilson, H.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R.W.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>MDCXLIX [1649].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First part signed: H. Wilson.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46671:1"/>
+            <pb facs="tcp:46671:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the proceedings in the Kingdom of SCOTLAND, CONCERNING Their Native and Dread Soveraign, <hi>Charles Stuart,</hi> late King of <hi>England;</hi> And a Meſſage to His Highneſſe the Prince of <hi>Wales.</hi>
+            </p>
+            <p>WITH The <hi>Declaration</hi> of the Marquis of <hi>Argyle,</hi> and General <hi>Le<g ref="char:EOLhyphen"/>ven,</hi> concerning the Prince, and their Reſolution to op<g ref="char:EOLhyphen"/>poſe the bringing in of the Royall Party.</p>
+            <p>ALSO, A Letter from the Presbyterian Miniſters in the Kingdome of <hi>England,</hi> to their Brethren of <hi>Scotland,</hi> touching the Parliament and Army.</p>
+            <p>
+               <hi>And the Anſwer of the Ministers of Scotland thereunto.</hi>
+            </p>
+            <p>
+               <hi>INcloſed in a Letter from the City of</hi> York, <hi>to a Gentleman reſident in the City of London.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>THEODORE JENNINGS.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Imprinted at <hi>London</hi> for <hi>R.VV. MDCXLIX.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:46671:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:46671:2" rendition="simple:additions"/>
+            <head>A Declaration from the North, containing the proceedings of the Kingdom of Scotland, in reference to the late King of <hi>England,</hi> and the Prince of <hi>Wales.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>VVHereas the children of prey, and men lately under the pillar and Cloud of <hi>hope,</hi> of dividing the ſpoyle of this miſerable kingdome, when it ſhould be reduced from under the Iron of enſlaving Tyranny and Oppreſſion (betweene which ſad condition, and it, there was even now but one ſtep) ſhould a<g ref="char:EOLhyphen"/>gain riſe up with paſſionate out-cryes, and be ready to curſe the army and their proceedings, and ecchoing forth their poyſonous and inveterate ladguage throughout ſeveral cor<g ref="char:EOLhyphen"/>ners of this Northern Climate, for alienating and withdraw<g ref="char:EOLhyphen"/>ing the hearts of the people from their due and lawfull O<g ref="char:EOLhyphen"/>bedience to the ſupream power, and repreſentative Body of this Nation.</p>
+            <p>But what theſe meure, are quires no great matter of won<g ref="char:EOLhyphen"/>der, or much obſervation, their actions being apparent to the world, and appearing viſible, written in Characters of innocent Bloud, and all their deſigns, plots and practiſes ten<g ref="char:EOLhyphen"/>ding only to the erecting and upholding of a tyrannical and arbytrary Government, who have bing reat promoters of the late wars againſt the parl. and kingdom (being of the royal Faction) and are now againe thirſting after the bloud
+<pb n="2" facs="tcp:46671:3"/>of the Righteous, their preſent actions being ſuitable to their former, importing the ſame juſtification in theſe their evill and wicked Deſigns, as appeareth by their preſent com<g ref="char:EOLhyphen"/>plottings and under-hand liſtings in ſeverall parts of Weſt<g ref="char:EOLhyphen"/>merland and Cumberland, uſing all meanes poſſible to di<g ref="char:EOLhyphen"/>ſturb and inflame the peace of the Kingdom, and Jack Preſ<g ref="char:EOLhyphen"/>byter (we hear) hath ſent a Declaratory Letter to his belo<g ref="char:EOLhyphen"/>ved Jockie <hi>(viz. the Clergy)</hi> Humbly imploring the ſad and bleeding condition of the Church of England, occaſioned by the preſent Reformation, by taking off Tythes, and pur<g ref="char:EOLhyphen"/>ging of their fat In comes, Requiring their preſent ayd and aſſiſtance, for redeeming of their liberties, &amp;c.</p>
+            <p>In conſideration whereof, we hear that their confiding Brethren do concur with them in their deſires, and have re<g ref="char:EOLhyphen"/>turned anſwer,</p>
+            <p>That they will leave no means unaſſayed for reſtauration of them to their former rights and cuſtomes, and reſtoring of the Church of England to its former ſplendor and glo<g ref="char:EOLhyphen"/>ry; and indeed, they have made a fair progreſſe in order thereunto; for they begin to open in pulpit, like ſo many Beagles after their game, ſtirring up the people to riſe as one man, for defence of the Kingly power, Monarchical go<g ref="char:EOLhyphen"/>vernment, and the ſolemn League and Covenant. But I am confident, that upon their advance to the Engliſh Confines, moſt of the inhabitants in theſe parts will generally riſe as one man for the parliament and army.</p>
+            <p>By an Expreſſe from <hi>Barwick,</hi> it is advertized, That there is a deſign agitating in Scotland amongſt the great Ones, to invite the Prince of Wales into that Kingdom, and (it is re<g ref="char:EOLhyphen"/>ported) that they are determined to ſend a meſſage to his Highneſſe, the abſtract and ſum whereof, is ſaid to be as fol<g ref="char:EOLhyphen"/>loweth:</p>
+            <pb n="3" facs="tcp:46671:3" rendition="simple:additions"/>
+            <p>
+               <hi>That whereas upon mature deliberation and conſideration of the preſent proceedings in the Kingdom of</hi> Englaad, <hi>in rela<g ref="char:EOLhyphen"/>tion to the tryall of their moſt gracious and dread Soveraigne, and conceiving there is an intent to cut off the Kingly power, and to extirpate the ſplendor of Monarchicall Government; in conſideration whereof, and out of their loyalty to the ſame, they humbly beſeech His Highneſse to repair into his Fathers Native Kingdom, proteſting to ſacrifice lives and fortunes in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efence of his Royall perſon, and preſervation of his just Rights and privlledges, &amp;c.</hi>
+            </p>
+            <p>But there are divers of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oneſt party in that <hi>Kingdome,</hi> who have declared againſt this grerogative Deſign; and we hear that the Marq. of <hi>Argyle,</hi> Gen. <hi>Leven,</hi> and others, have alſo declared their diſcent thereto, which was in theſe words,</p>
+            <p>
+               <hi>That we ſhall to the utmoſt of our lives and fortunes, endea<g ref="char:EOLhyphen"/>vour the preſervation of peace and amity betweene the two Kingdoms of</hi> Scotland <hi>and</hi> England, <hi>and that wee do utterly detest and denounce againſt the bringing in of the malignant and adverſe party into this Kingdom, conceiving it to be very prejudiciall and deſtructive to the peace and tranquility of this Kirk and Kingdom, and that we ſhall with the hazard of lives and fortunes, endeavour a right understanding between both Nations, against all Dividers and Oppoſers whatſoever.</hi>
+            </p>
+            <p>This honorable diſſent of theſe two noble Patriots, doth much eclipſe and obſtruct the preſent proceedings in Scot<g ref="char:EOLhyphen"/>land; and its believed, they will be twice ad<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>'d before they enter into an Engagement, <hi>the burnt Child dreading the fire.</hi> Our Forces goe on very ſuccesfully againſt the Enemy at Pontefract, which is all at preſent, from</p>
+            <closer>
+               <dateline>
+                  <hi>York</hi> 
+                  <date>30 Jan. 1648.</date>
+               </dateline>
+               <signed>Your devoted ſervant, <hi>H. WILSON.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:46671:4" rendition="simple:additions"/>
+            <head>
+               <hi>Severall precepts from the late King of</hi> England.</head>
+            <p>I Shall be very little heard of any body here. J ſhall therefore ſpeak a word unto you here, indeed I could hold my peace very well, if I did not think that holding my peace, would make ſome men think I did ſubmit to the guilt, as well as to the punniſhment, but I think it is my duty to God firſt, and to my Country, for to cl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar my ſelf both as an honeſt man, and as a good King, and a good Chriſtian. I ſhall begin firſt upon my innocency, introth I thinke it not very needfull for me to inſiſt long upon this, for all the World knowes that I never did begin a War with the two Houſes of Parliament, and I call God to witneſſe, to whom <hi>I</hi> muſt ſhortly make an account, that I never did intend to incroach upon their Priviledges they began upon me, it is the Militia they began upon, they confeſt that the Militia was mine, but they thought it fit for to have it from me, and to be ſhort, if any body will looke to the dates of Commiſſions, of their Commiſſions and mine, and likewiſe o the Declarations, will ſee clearly that they began theſe unhappy troubles not I, ſo that as the guilt of theſe Enormous crimes that are laid againſt me, I hope in God that God will clear me of it, I will not, I am in charity; God forbid that <hi>I</hi> ſhould lay it upon the two Houſes of Parliament, there is no neceſſity of either, <hi>I</hi> hope they are free of this guilt, for I do believe that ill inſtruments between them and me hath been the chief cauſe of all this blood ſhed; ſo that by way of ſpeaking, as I find my ſelf clear of this, I hope (and pray God) that they may too: yet for all this, God forbid that I ſhould be ſo ill a Chriſtian, as to ſay, that Gods Judgements are juſt upon me: Many times he doth pay Juſtice by u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> juſt Sen<g ref="char:EOLhyphen"/>tence, that is ordinary; <hi>I</hi> will onely ſay this; that an unjuſt Sen<g ref="char:EOLhyphen"/>tence (meaning the Earl of Strafford) that <hi>I</hi> ſuffered to take effect is puniſhed now, by an unjuſt Sentence upon me; that is, ſo farre <hi>I</hi> have ſaid to ſhew you that <hi>I</hi> am an innocent man. Now for to ſhew you that <hi>I</hi> am a good Chriſtian: <hi>I</hi> hope there is (pointing to Dr. Juxon) a good man that wil bear me witneſſe, that <hi>I</hi> have for<g ref="char:EOLhyphen"/>given all the world; and even thoſe that in particular, have beene the chief cauſers of my death; who they are God knowes, <hi>I</hi> do not d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſire to know, <hi>I</hi> pray God for give them, But this is not all, my Charity muſt go farther, J wiſh that they may repent, for they have committed a great ſin in that particular J pray God with st. Stephen that this be not laid to their charge; nay, not onely ſo, but that they
+<pb facs="tcp:46671:4"/>may take the right way to the peace of the Kingdom, for my <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ty commands me not onely to forgive particular men, but my cha<g ref="char:EOLhyphen"/>rity commands to the laſt gaſp, the peace of the Kingdome: So (ſirs) J do wiſh with all my ſoul, and J do hope there is (turning to ſome that wro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>) ſome here will carry it further, that they may endeavor the Kingdoms peace. Now J muſt ſhew you both how you are out of the way; and will put you in a way; firſt; you are out of the way, for certainly all the way you ever have had as yet as J could find by any, thing is in the way of conqueſt, Now ſir. for to put you in the way, belive it you will never do right, nor God will never proſper you, untill you give God his due, the King his due (that is my ſucceſſours) and the people their due? J am a: much for them as any of you: You muſt give, God his due, by regulating rightly his Church (according to his Scripture) which is now out of order. For to ſet you in away particularly now J cannot but onely this, a national ſynod freely called, freely debating among themſelves, muſt ſettle this, when every opinion is truly heard. For King, indeed J wil not, (then turning to a Gentleman that touched the Ax, ſaid, hurt not the Ax that may hurt me (meaning if he did blunt the edge) for the King: the Laws of the Land wil clearly in<g ref="char:EOLhyphen"/>ſtrvct you for that; therefore becauſe it concerns my own particu<g ref="char:EOLhyphen"/>lar, J onely give you a touch of it. For the people, And truly I de<g ref="char:EOLhyphen"/>ſire Liberty and freedom as much as any body whomſoever,: but J muſt tell you, that their Liberty, and their freedom, conſiſts in ha<g ref="char:EOLhyphen"/>ving of governmen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; thoſe laws by which life and their goods, may be moſt their own. Jt is not for having ſhare in government (ſir) that is noting pertaining to them, A ſubject and a ſoveraign are clean diſterent things, and therefore, untill they do that, J meane, that you do put the people in that Liberty as J ſay, certainly they will never enjoy themſelves. ſirs, it was for this that I am come here: If I would have given way to an Arbitrary way, for to have all Lawes changed according to the power of the ſword, I needed not to have come here, and therefore I tell you, (and I pray to God it be not laid to your charge) That I am the Martyr of the People. Introth Sirs, I ſhall not hold you much longer, for I will onely ſay this to you, That in truth I could have deſired ſome little time l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>ger, becauſe that I would have put this that J have ſaid in a little more order, and a little better digeſted then J have done, and there<g ref="char:EOLhyphen"/>fore J hope you will excuſe me. J have delivered my Conſcience, J pray God that you doe take thoſe courſes that are beſt for the good
+<pb facs="tcp:46671:5"/>of the Kingdom, and your owne ſalvations. Doctor Juxon, Will your Maieſty (though it may be very well knowne your Maieſties affections to Religion, yet it may be expacted that you ſhould) ſay ſomewhat for the worlds ſatisfaction.</p>
+            <p>
+               <hi>King.</hi> I thank you very nery heartily (my Lord) for that had al<g ref="char:EOLhyphen"/>moſt forgotten it. Introth Sirs, My Con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c ence in Religion, <hi>I</hi> think is very well knowne to all the World, and therefore. <hi>I</hi> declare be<g ref="char:EOLhyphen"/>fore you all, that <hi>I</hi> dy a Chriſtian according to the profeſſion of the Church of England, as <hi>I</hi> ſound it left me by my Father; and this honeſt man (pointing to Dr. Juxon) <hi>I</hi> think will witneſſe it. Then turning to the Officers ſaid, Sirs, excuſe me for this ſame. <hi>I</hi> have a good cauſe, and <hi>I</hi> have a gracious God; <hi>I</hi> will ſay no more. Then the King called to Dr. Juxſon for his Night, Cap, and having put it on, he ſaid to the Executioner, Does my haire taouble you? who deſired him to put it all under his Cap, which the King did ac<g ref="char:EOLhyphen"/>cordingly, by the help of the Executioner and the Biſhop, and the<g ref="char:EOLunhyphen"/>ing turning to Dr. Juxſon, <hi>I</hi> have a good Cauſe, and a gracious God on my ſide.</p>
+            <p>Dr. <hi>Juxſon.</hi> There is but one ſtage more. This ſtage is turbulent and troubleſome; it is a ſhort one: But you may conſider it wil ſoon carry you a very great way, it will carry you from Earth to Hea<g ref="char:EOLhyphen"/>ven, and there you ſhall find a great deal of cordiall, joy, and com<g ref="char:EOLhyphen"/>fort. <hi>King.</hi> I got from a corruptible, to an incorruptible Crown; where no diſturbance can be, no diſturbance in the world.</p>
+            <p>Dr. <hi>Juxon,</hi> You are changed from a Temporall to an eternall Crown; a good exchange. The <hi>King</hi> then ſaid to the Executioner, is my Hair well: then the King took off his Cloak and his George, giving his George to Dr. Juxſon ſaying, Remember me to my Son <hi>Charles.</hi> Then the King put off his Dublet, and being in his Waſte<g ref="char:EOLhyphen"/>coat, put his Cloak on again: then looking upon the block, ſaid to the Executioner, you muſt ſet it faſt. <hi>Executioner,</hi> It is faſt Sir.</p>
+            <p>
+               <hi>King.</hi> It might have been a little higher. <hi>Executioner.</hi> It can be no higher Sir. <hi>King.</hi> When I put out my hands this way, then — ſtretching them our. After that, having ſaid two or three words (as he ſtood) to himſelf with hands and eyes lifted up immediatly ſtoo<g ref="char:EOLhyphen"/>ping down, laid his Neck upon the Block: And then the Executio<g ref="char:EOLhyphen"/>ner again putting his Hair under his Cap, the King ſaid (thinking he had bin going to ſtrike) ſtay for the ſign. <hi>Execut.</hi> Yes, I will, and it pleaſe your Majeſty. And after a very little pawſe, the King ſtret<g ref="char:EOLhyphen"/>ching forth his hands, the Executioner at one blow, ſevered his head from his Body.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46671:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
